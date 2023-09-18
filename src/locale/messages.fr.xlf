@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1297156123382256733" datatype="html">
+        <source>String with Variable1 - <x id="PH" equiv-text="this.variable1"/></source>
+        <source>FR String with Variable1 - <x id="PH" equiv-text="this.variable1"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <note priority="1" from="description">SomeID</note>
+      </trans-unit>
+      <trans-unit id="1104624699906412285" datatype="html">
+        <source>String with Variable2 - <x id="PH" equiv-text="this.variable2"/></source>
+        <source>FR String with Variable2 - <x id="PH" equiv-text="this.variable2"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <note priority="1" from="description">SomeID</note>
+      </trans-unit>
+      <trans-unit id="2556403935879217323" datatype="html">
+        <source> FR Some Words</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <note priority="1" from="description">AnotherID</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
